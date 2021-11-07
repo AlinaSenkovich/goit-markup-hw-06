@@ -694,7 +694,6 @@ margin-top: 20px;
 .backdrop.is-hidden .modal {
     transform: rotate(180deg);
     transition: transform 250ms linear;
-}
 .modal {
     position: absolute;
     top: 50%;
